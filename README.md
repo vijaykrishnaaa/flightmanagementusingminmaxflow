@@ -1,5 +1,3 @@
-Of course! Here is a README file suitable for a GitHub repository, based on the provided presentation and source code.
-
 Enhanced Flight Management System Using Max-Flow Algorithm
 This project details the implementation of a flight management system that leverages the Push-Relabel max-flow algorithm for efficient and dynamic passenger allocation. The system is designed to handle real-world scenarios such as flight cancellations, capacity adjustments, and passenger re-routing, ensuring optimal resource utilization and passenger satisfaction.
 
